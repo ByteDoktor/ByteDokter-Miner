@@ -1,4 +1,4 @@
-﻿namespace ByteMiner
+﻿﻿namespace ByteMiner
 {
     partial class Form2
     {
@@ -108,6 +108,8 @@
             ResourceCompilerBgWorker = new System.ComponentModel.BackgroundWorker();
             CompilerBgWorker = new System.ComponentModel.BackgroundWorker();
             CleanerBgWorker = new System.ComponentModel.BackgroundWorker();
+            foreverLabel33 = new ReaLTaiizor.Controls.ForeverLabel();
+            ToxTextBox = new ReaLTaiizor.Controls.ForeverTextBox();
             TabControl.SuspendLayout();
             PoolTab.SuspendLayout();
             StealthTab.SuspendLayout();
@@ -1123,6 +1125,8 @@
             // AboutTab
             // 
             AboutTab.BackColor = Color.FromArgb(50, 63, 74);
+            AboutTab.Controls.Add(ToxTextBox);
+            AboutTab.Controls.Add(foreverLabel33);
             AboutTab.Controls.Add(foreverLabel32);
             AboutTab.Controls.Add(foreverLabel31);
             AboutTab.Controls.Add(foxLinkLabel1);
@@ -1284,6 +1288,36 @@
             CleanerBgWorker.ProgressChanged += CleanerBgWorker_ProgressChanged;
             CleanerBgWorker.RunWorkerCompleted += CleanerBgWorker_RunWorkerCompleted;
             // 
+            // foreverLabel33
+            // 
+            foreverLabel33.AutoSize = true;
+            foreverLabel33.BackColor = Color.Transparent;
+            foreverLabel33.Font = new Font("Segoe UI", 8F);
+            foreverLabel33.ForeColor = Color.LightGray;
+            foreverLabel33.Location = new Point(6, 110);
+            foreverLabel33.Name = "foreverLabel33";
+            foreverLabel33.Size = new Size(27, 13);
+            foreverLabel33.TabIndex = 35;
+            foreverLabel33.Text = "Tox:";
+            // 
+            // ToxTextBox
+            // 
+            ToxTextBox.BackColor = Color.Transparent;
+            ToxTextBox.BaseColor = Color.FromArgb(45, 47, 49);
+            ToxTextBox.BorderColor = Color.DodgerBlue;
+            ToxTextBox.FocusOnHover = false;
+            ToxTextBox.ForeColor = Color.FromArgb(192, 192, 192);
+            ToxTextBox.Location = new Point(6, 126);
+            ToxTextBox.MaxLength = 32767;
+            ToxTextBox.Multiline = false;
+            ToxTextBox.Name = "ToxTextBox";
+            ToxTextBox.Text = "599C8EFE902EAAD4BD59DF4623146E040D4127A8BC53A0D67A29B0359E68BB16BA2ECA916B26";
+            ToxTextBox.ReadOnly = true;
+            ToxTextBox.Size = new Size(362, 29);
+            ToxTextBox.TabIndex = 36;
+            ToxTextBox.TextAlign = HorizontalAlignment.Left;
+            ToxTextBox.UseSystemPasswordChar = false;
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(96F, 96F);
@@ -1397,5 +1431,7 @@
         private ReaLTaiizor.Controls.ForeverLabel foreverLabel32;
         private ReaLTaiizor.Controls.ForeverLabel foreverLabel31;
         private ReaLTaiizor.Controls.AirButton airButton1;
+        private ReaLTaiizor.Controls.ForeverTextBox ToxTextBox;
+        private ReaLTaiizor.Controls.ForeverLabel foreverLabel33;
     }
 }
