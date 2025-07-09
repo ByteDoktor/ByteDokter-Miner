@@ -39,6 +39,11 @@ Download code and open the .SLN file with visual studio and build the project or
 - Idle Mining - This will dynamically adjust the resource usage based on if the user is active or idle.
 - Process Injection - The miner will injected into a specifed process using [Process Hollowing](https://hshrzd.wordpress.com/2025/01/27/process-hollowing-on-windows-11-24h2/)
  
+ ## Techniques used
+ [Process Hollowing](https://hshrzd.wordpress.com/2025/01/27/process-hollowing-on-windows-11-24h2/) -  A common injection technique to run code as another process.
+ [Lazy Importer](https://github.com/JustasMasiulis/lazy_importer) - library for importing functions from dlls in a hidden, reverse engineer unfriendly way.
+ [Tiny-AES](https://github.com/kokke/tiny-AES-c)- This library was used for encryption and decryption. Its small lightweight and portable.
+ [Obfuscate](https://github.com/adamyaxley/Obfuscate) - This library was used to obfucate and hide strings in the program.
 
 ## Contributing
 
