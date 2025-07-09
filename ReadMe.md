@@ -3,11 +3,14 @@
 This builder is to showcase modern technique used to develop malware, the generated payload should only run on machine you're authorised to infect. 
 
 ## Disclaimer
-THIS SOFTWARE IS INTENDED FOR EDUCATIONAL USE ONLY AND IS NOT SUITABLE FOR ANY ACTUAL HACKING OR ILLEGAL ACTIVITIES. THE AUTHOR(S) SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, TORTIOUS, OR CONSEQUENTIAL DAMAGES THAT MAY ARISE FROM YOUR USE OF THIS SOFTWARE.
+Disclaimer
+I, the creator, am not responsible for any actions, and or damages, caused by this software.
 
-BY ACCESSING AND USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT IT IS EXCLUSIVELY FOR EDUCATIONAL PURPOSES TO DEMONSTRATE MODERN MALWARE TECHNIQUES. YOU AGREE NOT TO UTILIZE IT FOR ANY HARMFUL OR ILLEGAL INTENTS.
+You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.
 
-PLEASE NOTE: THIS PROJECT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. YOU ARE RESPONSIBLE FOR ENSURING THAT YOUR USE COMPLIES WITH ALL APPLICABLE LAWS AND REGULATIONS WHERE YOU RESIDE.
+This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
+
+By using this software, you automatically agree to the above.
 
 ## Images
 
