@@ -1,6 +1,6 @@
 # Byte XMR Miner
 
-This builder will output an exe with your custom settings this payload should only run on machine you're authorised to infect. 
+This builder is to showcase modern technique used to develop malware, the generated payload should only run on machine you're authorised to infect. 
 
 ## Disclaimer
 THIS SOFTWARE IS INTENDED FOR EDUCATIONAL USE ONLY AND IS NOT SUITABLE FOR ANY ACTUAL HACKING OR ILLEGAL ACTIVITIES. THE AUTHOR(S) SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, TORTIOUS, OR CONSEQUENTIAL DAMAGES THAT MAY ARISE FROM YOUR USE OF THIS SOFTWARE.
