@@ -2,6 +2,8 @@
 
 This builder is to showcase modern technique used to develop malware, the generated payload should only run on machine you're authorised to infect. 
 
+The Xmrig build included has been set to low power mode and can't be changed.
+
 ## Disclaimer
 Disclaimer
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
