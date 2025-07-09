@@ -55,5 +55,8 @@ Please make sure to update tests as appropriate.
 ## Authors and acknowledgment
 The design for this project was inspired by [UnamSanctam](https://github.com/UnamSanctam)
 
+## Contact me
+Tox: 599C8EFE902EAAD4BD59DF4623146E040D4127A8BC53A0D67A29B0359E68BB16BA2ECA916B26
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details
