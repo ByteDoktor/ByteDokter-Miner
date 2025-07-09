@@ -4,6 +4,8 @@ This builder is to showcase modern technique used to develop malware, the genera
 
 The Xmrig build included has been set to low power mode and can't be changed.
 
+This tools provides users with solution to mine xmr on their computer while having additional features allowing for the miner to auto pause when configured correctly, this allows the user to mine without impacting system performance.
+
 ## Disclaimer
 Disclaimer
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
