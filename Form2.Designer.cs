@@ -1298,7 +1298,7 @@
             foreverLabel33.Name = "foreverLabel33";
             foreverLabel33.Size = new Size(27, 13);
             foreverLabel33.TabIndex = 35;
-            foreverLabel33.Text = "Tox:";
+            foreverLabel33.Text = "PGP Key:";
             // 
             // ToxTextBox
             // 
@@ -1311,7 +1311,7 @@
             ToxTextBox.MaxLength = 32767;
             ToxTextBox.Multiline = false;
             ToxTextBox.Name = "ToxTextBox";
-            ToxTextBox.Text = "599C8EFE902EAAD4BD59DF4623146E040D4127A8BC53A0D67A29B0359E68BB16BA2ECA916B26";
+            ToxTextBox.Text = "mDMEaHQHixYJKwYBBAHaRw8BAQdAl0o2Znjuhab+mYQJWkanI6VJSQQQExlf+x4UrvnxaL+0CkJ5dGVEb2t0b3KImQQTFgoAQRYhBHgfhes1GJN8FwjGtBMw/FW0vGt9BQJodAeLAhsDBQkvBXqlBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEBMw/FW0vGt91IsA/1xw+HHxhAB0HTacbhG5wOnPnLCcv/xLPMPRvJxwHFZGAP964IlYqRf0su15v9SlJR81zmEHxUi/p8vS3ulRVXt5A7g4BGh0B4sSCisGAQQBl1UBBQEBB0ClH5hKyEwyCTffrF+WA0vmPjQ9UiKZsN+xrz1TwgKJSgMBCAeIfgQYFgoAJhYhBHgfhes1GJN8FwjGtBMw/FW0vGt9BQJodAeLAhsMBQkvBXqlAAoJEBMw/FW0vGt984EA/0XzWsUvunZdlcFTjJlRO3w01R1dfTDGVfAlvZybIreMAQDGEwgY6x9ZX3cJBqkIl2sJvevLmhkCZnfat7xbBYxxCw===oTEn";
             ToxTextBox.ReadOnly = true;
             ToxTextBox.Size = new Size(362, 29);
             ToxTextBox.TabIndex = 36;
